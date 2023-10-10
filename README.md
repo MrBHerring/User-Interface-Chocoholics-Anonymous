@@ -3,9 +3,9 @@
 
 
 <h2>Description</h2>
-In this project, my team and I created a user interface for anonymous persons who identified as a chocoholic. Inside the user interface, a member with a chocolate addiction can request an invoice to a provider. The provider reviews the members information and submits a claim to the manager. If necessary, the manager of the user interface can request an invoice or a report at any given time. Overiding member and provider priviledges. One can schedule a report and specify whether the report is daily, weekly, or monthly. Service codes determine how much a member should be charged for the service being provided.
+In this project, my team and I created a user interface for anonymous persons who identified as chocoholic. Inside the user interface, a member with a chocolate addiction can request an invoice from a provider. The provider reviews the member's information and submits a claim to the manager. If necessary, the manager of the user interface can request an invoice or a report at any given time. Overriding member and provider privileges. One can schedule a report and specify whether the report is daily, weekly, or monthly. Service codes determine how much a member should be charged for the service being provided.
 
-For more information, you can explore the project submissions folder and analyze the word documents that record the development of this program. Furthermore, click on app.py to explore the functionality of the user interface.
+For more information, you can explore the project submissions folder and analyze the Word documents that record the development of this program. Furthermore, click on app.py to explore the functionality of the user interface.
 <br />
 
  
