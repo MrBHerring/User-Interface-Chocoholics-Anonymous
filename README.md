@@ -20,9 +20,8 @@ For more information, you can explore the project submissions folder and analyze
 
 <h2>Here is the front page of User Interface:</h2>
 
-<p align="center">
-Using Powershell to find and install sdl2: <br/>
-<img src="https://imgur.com/a/wCcjj0B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="https://i.imgur.com/GxCd3Lw.png.png" height="80%" width="80%" alt="ChocAnon Main Screen"/>
 <br />
 
 
